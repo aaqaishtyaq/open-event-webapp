@@ -20,6 +20,9 @@
     "url": "https://github.com/fossasia/open-event-webapp/issues"
   },
   "homepage": "https://github.com/fossasia/open-event-webapp#readme",
+  "engines": {
+    "node": "8.11.1"
+  },
   "dependencies": {
     "ajv": "^5.5.2",
     "archiver": "^1.0.0",
